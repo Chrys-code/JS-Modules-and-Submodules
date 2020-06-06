@@ -1,4 +1,4 @@
-# OOJS-Modules-and-Submodules
+# JS-Modules-and-Submodules
 Introduction to JS modules and sub-modules with Object-Oriented JavaScript
 
 Two short scripts written is JavaScript used to introduce to JsvaScript modules and sub-modules.
